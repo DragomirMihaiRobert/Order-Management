@@ -1,0 +1,4 @@
+Order with id 2.
+Client with id 3, named Mihai placed an order for product with id 2, named carne.
+Quantity: 5
+Total price: 45
